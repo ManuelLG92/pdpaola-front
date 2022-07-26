@@ -1,5 +1,7 @@
 # PdPaola front
 
+## Package management: `yarn`
+
 ## Project setup
 ```
 npm install
