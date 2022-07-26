@@ -2,7 +2,6 @@ import { createWebHistory, createRouter } from "vue-router";
 import Main from './components/Main.vue'
 import Transactions from "@/components/Transactions";
 import Product from "@/components/Product";
-// import LatestPosts from "@/components/partials/LatestPosts";
 import Products from "@/components/Products";
 
 const routes = [
